@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
   - name: redis
-    image: redis:latest
+    image: redis
     ports:
      - containerPort: 6379
